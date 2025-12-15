@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-This assignment consists of a collection of **Deep Learning and Reinforcement Learning programs**, implemented using **Python, TensorFlow/Keras, NumPy, and other supporting libraries**.
+This assignment consists of a collection of **Deep Learning and Reinforcement Learning programs**, implemented using **Python, TensorFlow, NumPy, and other supporting libraries**.
 The objective of the assignment is to understand, implement, and analyze core learning algorithms through practical experimentation.
 
 All programs were executed successfully, and necessary corrections and improvements were applied to ensure correctness, robustness, and compatibility with modern libraries.
@@ -117,5 +117,6 @@ python LSTM.py
 python Rnn.py
 python TicTacToe.py
 ```
+
 
 
